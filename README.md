@@ -29,6 +29,15 @@ We shall develop this application using the eICU database.
 
 <hr/>
 
+## Instructions
+Ensure that the dataset files are located in
+ 
+ "SepsisPrediction/eICU/full"
+ 
+The Data cleaning files should then be ran ... (WIP)
+
+<hr/>
+
 ## Team
 
 <table align="center">
