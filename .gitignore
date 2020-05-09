@@ -1,3 +1,6 @@
 *.csv
 .idea/
 eICU/
+.ipynb_checkpoints/
+Jupyter Notebooks/.ipynb_checkpoints/
+Jupyter Notebooks/Data Cleaning/.ipynb_checkpoints/
