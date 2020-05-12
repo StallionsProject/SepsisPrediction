@@ -1,4 +1,0 @@
-cleaning_diagnosis_table.ipynb
-patient_ids.ipynb
-cleaning_patient_table.ipynb
-cleaning_lab_table.ipynb
