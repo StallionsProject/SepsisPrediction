@@ -29,15 +29,6 @@ We shall develop this application using the eICU database.
 
 <hr/>
 
-## Instructions
-Ensure that the dataset files are located in
- 
- "SepsisPrediction/eICU/full"
- 
-The Data cleaning files should then be ran ... (WIP)
-
-<hr/>
-
 ## Team
 
 <table align="center">
@@ -73,15 +64,6 @@ The Data cleaning files should then be ran ... (WIP)
      </tr>
   </tbody>
 </table>
-
-<hr/>
-
-### References
-* Pollard, T., Johnson, A., Raffa, J., Celi, L. A., Badawi, O., Mark, R. (2019). eICU Collaborative Research Database. PhysioNet. doi:10.13026/C2WM1R
-
-* The eICU Collaborative Research Database, a freely available multi-center database for critical care research. Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Mark RG and Badawi O. Scientific Data (2018). DOI: http://dx.doi.org/10.1038/sdata.2018.178.
-
-* Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh, Mark RG, Mietus JE, Moody GB, Peng C-K, Stanley HE. PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals (2003). Circulation. 101(23):e215-e220.
 
 <hr/>
 
